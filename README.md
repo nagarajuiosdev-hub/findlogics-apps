@@ -1,3 +1,3 @@
-# FindLogics Apps
+# FindLogics app privacy pages
 
-Privacy and support pages for FindLogics Android apps, served with GitHub Pages.
+These pages have moved to https://findlogics.in/privacy.
